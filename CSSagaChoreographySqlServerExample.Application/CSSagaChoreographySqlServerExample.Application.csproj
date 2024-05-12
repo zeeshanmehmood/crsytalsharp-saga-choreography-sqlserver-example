@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CrystalSharp.EventStores.EventStoreDb" Version="1.0.2" />
+    <PackageReference Include="CrystalSharp.MsSql" Version="1.0.2" />
+  </ItemGroup>
+
+</Project>
